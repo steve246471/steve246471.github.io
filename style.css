@@ -1,0 +1,66 @@
+@media screen and (min-width: 490px)  {
+ p {
+font-size: 18pt;} 
+body {
+   background-color: #ccc;
+margin: 0px;
+  }
+h1 {font-size: 300%;
+background-color:green;
+color: white;
+text-align: center;}
+.block0 {
+margin:10px 10%;
+width: 939px;
+background-image: url('telemaster.jpg');
+}
+.block {
+  margin:10px;
+  width: 350px;
+}
+.block1 {
+  background:white;
+  margin:10px;
+  width: 480px;
+ padding-top:30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+border: 5px solid rgba(0, 0, 0, .4);
+}
+#parent {
+  display:flex;
+margin:10px 10%
+}
+}
+@media screen and (max-width: 480px)  {
+p {
+font-size: 18pt;} 
+body {
+   background-color: #ccc;
+margin: 0px;
+  }
+h1 {font-size: 150%;
+background-color:green;
+color: white;
+text-align: center;}
+.block0 {
+margin:10px 10%;
+width: 320px;
+background-image: url('telemaster.jpg');
+}
+.block {
+  margin:10px;
+  width: 320px;
+}
+.block1 {
+  background:white;
+  margin:10px;
+  width: 320px;
+ padding-top:30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+border: 5px solid rgba(0, 0, 0, .4);
+}
+}
