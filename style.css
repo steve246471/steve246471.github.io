@@ -7,7 +7,7 @@ margin: 0px;
   }
 
 .block0 {
-margin:10px 10%;
+margin:0px 10%;
 width: 939px;
 background-image: url('telemaster.jpg');
 }
@@ -17,8 +17,8 @@ background-image: url('telemaster.jpg');
 }
 .block1 {
   background:white;
-  margin:10px;
-  width: 480px;
+  margin:0px;
+  width: 500px;
  padding-top:30px;
                 padding-right: 30px;
                 padding-bottom: 30px;
@@ -39,12 +39,12 @@ margin: 0px;
   }
 
 .block0 {
-margin:10px 10%;
+margin:0px 10%;
 width: 320px;
 background-image: url('telemaster.jpg');
 }
 .block {
-  margin:10px;
+  margin:0px;
   width: 320px;
 }
 .block1 {
