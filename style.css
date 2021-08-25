@@ -9,6 +9,7 @@ margin: 0px;
 .block0 {
 margin:0px 10%;
 width: 939px;
+height: 187px;
 background-image: url('telemaster.jpg');
 }
 .block {
@@ -32,7 +33,7 @@ margin:10px 10%
 }
 @media screen and (max-width: 480px)  {
 p {
-font-size: 18pt;} 
+font-size: 14pt;} 
 body {
    background-color: #ccc;
 margin: 0px;
@@ -40,7 +41,8 @@ margin: 0px;
 
 .block0 {
 margin:0px 10%;
-width: 320px;
+width: 360px;
+height: 100px;
 background-image: url('telemaster.jpg');
 }
 .block {
