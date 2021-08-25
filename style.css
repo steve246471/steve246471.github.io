@@ -13,12 +13,12 @@ height: 187px;
 background-image: url('telemaster.jpg');
 }
 .block {
-  margin:0px;
+  margin:10px;
   width: 350px;
 }
 .block1 {
   background:white;
-  margin:10px;
+  margin:0px;
   width: 500px;
  padding-top:30px;
                 padding-right: 30px;
