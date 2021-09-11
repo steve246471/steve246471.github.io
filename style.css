@@ -7,7 +7,7 @@ margin: 0px;
   }
 
 .block0 {
-margin:0px 10%;
+
 width: 939px;
 height: 187px;
 background-image: url('telemaster.jpg');
@@ -28,8 +28,11 @@ border: 5px solid rgba(0, 0, 0, .4);
 }
 #parent {
   display:flex;
-margin:10px 10%
+
 }
+.center {
+  margin-left: auto;
+  margin-right: auto;}
 }
 @media screen and (max-width: 480px)  {
 p {
@@ -59,4 +62,7 @@ background-image: url('telemaster.jpg');
                 padding-left: 20px;
 border: 5px solid rgba(0, 0, 0, .4);
 }
+.center {
+  margin-left: auto;
+  margin-right: auto;}
 }
