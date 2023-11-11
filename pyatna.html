@@ -86,16 +86,14 @@ font-size: 18pt;
 		</td>
 	</tr>
 </table></center>
-<amp-analytics type="googleanalytics">
+<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+<amp-analytics type="gtag" data-credentials="include">
 <script type="application/json">
 {
-  "vars": {
-    "account": "UA-418681-33"
-  },
-  "triggers": {
-    "trackPageview": {
-      "on": "visible",
-      "request": "pageview"
+  "vars" : {
+    "gtag_id": "G-FHV9BST2JQ",
+    "config" : {
+      "G-FHV9BST2JQ": { "groups": "default" }
     }
   }
 }
